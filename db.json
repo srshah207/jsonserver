@@ -1,0 +1,13 @@
+{
+  "products" : [
+    {
+      "name": "Redmi",
+      "quantity": 5
+    },
+    {
+      "name": "Iphone",
+      "quantity": 5
+    },
+   
+  ]
+}
